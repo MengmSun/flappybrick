@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Fri Dec 21 13:04:07 2018
+# Process ID: 7984
+# Current directory: C:/Users/87527/Desktop/flappybird
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14544 C:\Users\87527\Desktop\flappybird\flappybird.xpr
+# Log file: C:/Users/87527/Desktop/flappybird/vivado.log
+# Journal file: C:/Users/87527/Desktop/flappybird\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/87527/Desktop/flappybird/flappybird.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'.
+open_project: Time (s): cpu = 00:00:21 ; elapsed = 00:00:13 . Memory (MB): peak = 798.910 ; gain = 90.965
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Dec 21 14:42:58 2018...
